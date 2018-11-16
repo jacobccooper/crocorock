@@ -5,7 +5,7 @@ Data for the Crocorock Tutorial at the University of Chicago. All data was creat
 
 Woodpecker data are adapted directly from:
 
-[Cooper, Jacob C. 2018. "Niche theory and its relation to morphology and phenotype in geographic space: a case study in woodpecker (Picidae). *Journal of Avian Biology* e01771.](doi:10.1111/jav.01771)
+Cooper, Jacob C. 2018. "Niche theory and its relation to morphology and phenotype in geographic space: a case study in woodpecker (Picidae). *Journal of Avian Biology* e01771. https://doi.org/10.1111/jav.01771
 
 Please see that publication for data sources and a link to a dryad repository with the complete code. If you wish to use any of these woodpecker data or code derived from the woodpecker example in this tutorial, please cite Cooper (2018).
 
